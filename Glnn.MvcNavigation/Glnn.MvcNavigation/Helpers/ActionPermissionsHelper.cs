@@ -1,6 +1,8 @@
 using System.Web.Mvc;
+using Glnn.MvcNavigation.FluentDisplay;
+using Glnn.MvcNavigation.FluentDisplay.Impl;
 
-namespace Glnn.MvcNavigation.FluentDisplay.Impl
+namespace Glnn.MvcNavigation.Helpers
 {
     class ActionPermissionsHelper : ISecurityHelper
     {

@@ -7,6 +7,7 @@ using Glnn.MvcNavigation.FluentConfiguration.Impl;
 using Glnn.MvcNavigation.FluentDisplay;
 using System.Web.Mvc.Html;
 using Glnn.MvcNavigation.FluentDisplay.Impl;
+using Glnn.MvcNavigation.Helpers;
 
 namespace Glnn.MvcNavigation
 {

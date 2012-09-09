@@ -78,7 +78,7 @@
     <Compile Include="FluentConfiguration\IRootNavigationConfiguration.cs" />
     <Compile Include="FluentConfiguration\IRootNavigationItemActions.cs" />
     <Compile Include="FluentConfiguration\ISubNavigationConfiguration.cs" />
-    <Compile Include="FluentDisplay\Impl\ActionPermissionsHelper.cs" />
+    <Compile Include="Helpers\ActionPermissionsHelper.cs" />
     <Compile Include="FluentDisplay\Impl\FluentDisplay.cs" />
     <Compile Include="FluentDisplay\IFluentDisplay.cs" />
     <Compile Include="FluentDisplay\ISecurityHelper.cs" />
