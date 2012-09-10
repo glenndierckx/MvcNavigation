@@ -4,3 +4,12 @@ obj
 
 # mstest test results
 TestResults
+
+# resharper
+_Resharper.*
+
+# NuGet Packages (restore on build is enabled)
+packages
+
+# ncrunch
+*ncrunch*
